@@ -1,3 +1,4 @@
 #!/bin/bash -e
 
-echo "Done!?"
+echo "Never finishing..."
+sleep infinity
